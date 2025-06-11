@@ -1,0 +1,6 @@
+@Open_Church_API_HostAddress = http://localhost:5133
+
+GET {{Open_Church_API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
